@@ -25,5 +25,5 @@ set clipboard+=unnamed
 set paste
 set go+=a
 
-set listchars=tab:\|\ 
-set list
+set cursorcolumn
+set cursorline
